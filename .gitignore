@@ -1,5 +1,20 @@
+# Credenciais e variáveis de ambiente
 .env
-.venv/
+.env.*
+!.env.example
+
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+.venv/
+venv/
+
+# PyCharm e sistema
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dados locais e arquivos temporários
 .pytest_cache/
+.coverage
+htmlcov/

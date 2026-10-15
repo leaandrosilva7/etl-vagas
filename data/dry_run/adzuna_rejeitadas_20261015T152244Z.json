@@ -1,0 +1,35 @@
+[
+  {
+    "fonte": "adzuna",
+    "id_externo": "5928810973",
+    "motivo": "campo obrigatório ausente: empresa",
+    "payload": {
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Estamos em busca de um(a) Desenvolvedor(a) de Software Sênior para atuar no desenvolvimento e evolução de uma plataforma voltada a operações em campo, utilizada por profissionais da construção civil em ambientes onde conectividade, desempenho e confiabilidade são fatores essenciais. Buscamos alguém que goste de atuar em diferentes camadas da aplicação, tenha preocupação com qualidade de código e queira desenvolver soluções que gerem impacto real para os usuários. Principais responsabilidades De…",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "redirect_url": "https://www.adzuna.com.br/details/5928810973?utm_medium=api&utm_source=08b6b143",
+      "title": "DESENVOLVEDOR(A) DE SOFTWARE SÊNIOR",
+      "id": "5928810973",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-10-15T07:57:03Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaENlblJLekk4UkdZd1BGU21CTV9iQSIsImkiOiI1OTI4ODEwOTczIn0.WK3egeuf3jamPTVJ0rMtMONvunEZM6JxrZ82UA8ImOc",
+      "location": {
+        "display_name": "São Paulo, Estado de São Paulo",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Brasil",
+          "Sudeste",
+          "Estado de São Paulo",
+          "São Paulo"
+        ]
+      }
+    }
+  }
+]
